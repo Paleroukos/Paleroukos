@@ -1,5 +1,7 @@
 ##Hey, I'm Panagiotis aka Paler🥵
 
+<td valign="top" width="50%">
+  
 <div align="center">
 <img src="https://i.imgur.com/bLpljoh.gif" align="center" style="width: 100%" />
 </div>  
