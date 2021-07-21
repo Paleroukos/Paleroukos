@@ -35,7 +35,7 @@
 - OS: Windows 10⌨️  
   
 
-- IDE: VS-Code  
+- IDE: Jetbrains Webstorm
   
 
 <br/>  
