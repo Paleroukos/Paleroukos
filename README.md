@@ -63,18 +63,17 @@
 
 <br/>  
 
+# Github Stats  
+<table><tr><td align="center" width="50%">
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paleroukos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paleroukos&count_private=true&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paleroukos&hide_border=true&layout=compact" align="left" />  
+</td><td align="center" width="50%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paleroukos&layout=compact&theme=radical)
+
+</td></tr></table>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Paleroukos&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-
+![Profile views counter](https://komarev.com/ghpvc/?username=Paleroukos&&style=flat-square)  
