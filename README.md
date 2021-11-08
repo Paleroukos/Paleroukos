@@ -32,7 +32,7 @@
 
 
 ## Using:  
-- OS: Windows 10⌨️  
+- OS: Windows 10 & Arch linux ⌨️  
   
 
 - IDE: Jetbrains Webstorm
