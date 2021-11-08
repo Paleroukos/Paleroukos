@@ -35,7 +35,7 @@
 - OS: Windows 10 & Arch linux ⌨️  
   
 
-- IDE: Jetbrains Webstorm
+- IDE: Jetbrains Webstorm & Visual studio code
   
 
 <br/>  
